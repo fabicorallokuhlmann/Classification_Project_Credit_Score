@@ -31,7 +31,7 @@ XVI) resultado: melhor modelo para esse projeto é o **Random Forest**, com **82
 <table border="1">
     <tr>
         <th>&nbsp;</th>
-        <th>Acurácia (em %)</th>
+        <th>Acurácia</th>
     </tr>
     <tr>
         <th>Random Forest</th>
